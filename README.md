@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ilblogdicristiangallo/Quick-Download-TV/raw/main/Screen/Senza%20titolo-2.png" alt="Quick Download TV Banner" width="100%">
+<img src="https://github.com/ilblogdicristiangallo/Quick-Download-TV/raw/main/Screen/Senza%20titolo-2.png" alt="Quick Download TV Banner" width="50%">
 
 # 📥 Quick Download TV
 
