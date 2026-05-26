@@ -1,0 +1,226 @@
+PRIVACY POLICY - QUICK DOWNLOAD TV
+
+Last Updated: January 2025
+Effective Date: January 2025
+Developer: Cristian Gallo
+
+═══════════════════════════════════════════════════════════════
+
+1. INTRODUCTION
+
+This Privacy Policy describes how Quick Download TV ("the App", "we", 
+"us", or "our") handles user information. Quick Download TV is a 
+professional file management tool designed for Fire TV and Android TV 
+devices. By using our application, you agree to the practices described 
+in this Privacy Policy.
+
+═══════════════════════════════════════════════════════════════
+
+2. INFORMATION WE COLLECT
+
+Quick Download TV does NOT collect, store, or transmit any personal 
+information to external servers. We are committed to user privacy and 
+have designed our application to operate entirely on your device.
+
+We do NOT collect:
+- Personal identification information (name, email, phone number)
+- Location data or GPS coordinates
+- Device identifiers (IMEI, MAC address, advertising ID)
+- Browsing history or visited URLs
+- Download history sent to external servers
+- Usage analytics or telemetry data
+- Crash reports
+- Any other personal or sensitive information
+
+═══════════════════════════════════════════════════════════════
+
+3. LOCAL DATA STORAGE
+
+The following data is stored exclusively on your device and is never 
+transmitted to any external server:
+
+- Application preferences and settings (cursor speed, configuration)
+- User-added favorites and bookmarks
+- Local download history
+- WebView cookies (required for proper website functionality)
+- Downloaded files in the device storage
+
+This data remains under your complete control and is automatically 
+removed when you uninstall the application.
+
+═══════════════════════════════════════════════════════════════
+
+4. PERMISSIONS REQUIRED
+
+Quick Download TV requests the following Android permissions, each 
+with a specific purpose:
+
+INTERNET
+Purpose: Required to download files from URLs you specify
+Justification: Core functionality of the download manager
+
+ACCESS_NETWORK_STATE
+Purpose: To verify internet connectivity before downloads
+Justification: Prevents failed downloads due to network issues
+
+READ_EXTERNAL_STORAGE / WRITE_EXTERNAL_STORAGE
+Purpose: To save downloaded files to device storage
+Justification: Essential for file management functionality
+
+REQUEST_INSTALL_PACKAGES
+Purpose: To install Android applications (APK files) you download
+Justification: User-initiated installation of personal files
+
+FOREGROUND_SERVICE
+Purpose: To continue downloads in the background
+Justification: Improved user experience and download reliability
+
+WAKE_LOCK
+Purpose: To prevent device sleep during active downloads
+Justification: Ensures download completion without interruption
+
+ACCESS_WIFI_STATE
+Purpose: To detect WiFi connection status
+Justification: Better network management for downloads
+
+═══════════════════════════════════════════════════════════════
+
+5. THIRD-PARTY CONTENT AND WEBSITES
+
+Quick Download TV is a download manager that allows users to download 
+files from URLs they specify. The application provides a tool, but the 
+user has complete control over what content to download.
+
+Regarding third-party websites:
+- We do not control, endorse, or take responsibility for third-party 
+  websites accessed through the application
+- Third-party websites have their own privacy policies and terms of 
+  service
+- We are not responsible for data collection practices of external 
+  websites
+- Cookies and tracking technologies used by third-party sites follow 
+  their own policies
+- Users are solely responsible for ensuring they have legal rights to 
+  download content from any website
+
+═══════════════════════════════════════════════════════════════
+
+6. USER RESPONSIBILITY
+
+By using Quick Download TV, you acknowledge and agree that:
+
+a) You are solely responsible for the content you choose to download
+b) You will respect all applicable copyright laws and intellectual 
+   property rights
+c) You will follow the Terms of Service of any websites you visit
+d) You will only download content for which you have legal authorization
+e) You will use the application for personal, lawful purposes only
+f) You will not use the application to violate any laws or regulations
+
+The developer is not responsible for misuse of the application or for 
+any consequences arising from user actions.
+
+═══════════════════════════════════════════════════════════════
+
+7. DATA SECURITY
+
+Since Quick Download TV does not collect or transmit user data to 
+external servers, there is minimal risk of data interception or breach 
+from our infrastructure. All locally stored data is protected by your 
+device's operating system security mechanisms.
+
+Security measures:
+- No external server communication for user data
+- All data remains on user's device
+- Local storage protected by Android security
+- No third-party analytics or tracking SDKs integrated
+- No advertising networks or external services
+
+═══════════════════════════════════════════════════════════════
+
+8. CHILDREN'S PRIVACY
+
+Quick Download TV is not specifically directed at children under 13 
+years of age. We do not knowingly collect any personal information 
+from children. The application is designed as a general-purpose 
+download manager for adult users.
+
+If you are a parent or guardian and believe that your child has 
+provided personal information through our application, please contact 
+us immediately at the email address provided below.
+
+═══════════════════════════════════════════════════════════════
+
+9. INTERNATIONAL COMPLIANCE
+
+Since we do not collect any user data, this Privacy Policy is fully 
+compliant with international privacy regulations including:
+
+- General Data Protection Regulation (GDPR) - European Union
+- California Consumer Privacy Act (CCPA) - United States
+- Personal Information Protection and Electronic Documents Act (PIPEDA) 
+  - Canada
+- Lei Geral de Proteção de Dados (LGPD) - Brazil
+- Amazon Appstore Developer Agreement
+- Google Play Developer Policy
+- Apple App Store Review Guidelines
+
+═══════════════════════════════════════════════════════════════
+
+10. CHANGES TO THIS PRIVACY POLICY
+
+This Privacy Policy may be updated periodically to reflect changes in 
+our practices or for legal compliance reasons. When we make changes, 
+we will:
+
+- Update the "Last Updated" date at the top of this document
+- Communicate significant changes through application updates
+- Maintain previous versions available for reference
+
+Continued use of the application after Privacy Policy changes 
+constitutes acceptance of the updated terms.
+
+═══════════════════════════════════════════════════════════════
+
+11. CONTACT INFORMATION
+
+If you have any questions, concerns, or feedback regarding this Privacy 
+Policy or the application, please contact us:
+
+Developer: Cristian Gallo
+Email: support@ilblogdicristiangallo.com
+Website: https://www.ilblogdicristiangallo.com
+App Name: Quick Download TV
+
+We are committed to addressing any privacy concerns promptly and 
+transparently.
+
+═══════════════════════════════════════════════════════════════
+
+12. DEVELOPER COMMITMENT
+
+Quick Download TV is committed to user privacy. We believe that the 
+best privacy policy is no data collection at all. Your downloads, your 
+files, your device, your privacy - that's our principle.
+
+By choosing not to collect user data, we ensure that:
+- Your personal information remains private
+- Your usage patterns are not tracked or analyzed
+- Your downloads are not monitored or recorded
+- Your privacy is protected by design
+
+═══════════════════════════════════════════════════════════════
+
+13. ACCEPTANCE OF TERMS
+
+By installing and using Quick Download TV, you acknowledge that you 
+have read, understood, and agreed to this Privacy Policy and the 
+associated terms of use. If you do not agree with any part of this 
+Privacy Policy, please discontinue use of the application.
+
+═══════════════════════════════════════════════════════════════
+
+© 2025 Cristian Gallo - All Rights Reserved
+Quick Download TV - Made with care in Italy
+
+═══════════════════════════════════════════════════════════════
